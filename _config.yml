@@ -20,3 +20,6 @@ docs:
 - title: Publications
   url: publications.html
   
+header_pages:
+  - publications.md
+  - about.md
