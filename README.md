@@ -5,10 +5,14 @@ I am currently a semi-independent postdoctoral fellow at the University of Color
 Please see:
 1. [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/index.html)
 2. [squirrelBox, a Shiny browser for hibernating ground squirrel brain tissue RNA-seq data](https://raysinensis.shinyapps.io/squirrelBox/)
-3. [tcga browser, data presentation project from Data Incubator internship](tcga.raysinensis.com)
+3. [TCGAbrowser, data presentation project from Data Incubator internship]((https://tcga.raysinensis.com)
 
 Other links:
 1. [Personal GitHub](https://github.com/raysinensis)
 2. [RNA Bioscience Initiative GitHub](https://github.com/rnabioco)
 3. [Google Scholar Page](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5K4soB0AAAAJ)
-4. [LinkedIn](https://www.linkedin.com/in/rui-fu-rna/)
+
+Contact:
+1. [LinkedIn](https://www.linkedin.com/in/rui-fu-rna/)
+2. [Twitter](https://twitter.com/FRancium34)
+
