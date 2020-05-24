@@ -2,10 +2,5 @@ theme: jekyll-theme-tactile
 title: Ray, from China
 description: 05-25-20
 
-layout: page
-title: "Home"
-permalink: /
-
-layout: page
-title: "About"
-permalink: /about/
+pages_list:       
+  About: '/about'
