@@ -5,7 +5,7 @@ I am currently a semi-independent postdoctoral fellow at the University of Color
 Please see:
 1. [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/index.html)
 2. [squirrelBox, a Shiny browser for hibernating ground squirrel brain tissue RNA-seq data](https://raysinensis.shinyapps.io/squirrelBox/)
-3. [TCGAbrowser, data presentation project from Data Incubator internship](https://tcga.raysinensis.com)
+3. [TCGAbrowser, data presentation project from Data Incubator internship](http://tcga.raysinensis.com)
 
 Other links:
 1. [Personal GitHub](https://github.com/raysinensis)
