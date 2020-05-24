@@ -2,24 +2,10 @@ theme: jekyll-theme-tactile
 title: Ray, from China
 description: 05-25-20
 
-docs_list_title: About Rui
-docs:
+layout: page
+title: "Home"
+permalink: /
 
-- title: CV
-  url: introduction.html
-
-- title: Bioinformatic Software Sample
-  url: clustifyr.html
-  
-- title: Bioinformatic Project Sample
-  url: https://raysinensis.shinyapps.io/squirrelBox
-
-- title: Data Science Project Sample
-  url: http://tcga.raysinensis.com/
-  
-- title: Publications
-  url: publications.html
-  
-header_pages:
-  - publications.md
-  - about.md
+layout: page
+title: "About"
+permalink: /about/
