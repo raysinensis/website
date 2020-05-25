@@ -2,7 +2,7 @@
 
 ## Research interests:
 ### Post-transcriptional gene expression regulation.
-PNPT1 release from mitochondria during apoptosis triggers decay of poly(A) RNAs.<br> Liu X<sup>1</sup>, __Fu R<sup>1</sup>__, Pan Y, Meza-Sosa K, Zhang Z, Lieberman J. _Cell_, 2018. [link](https://www.sciencedirect.com/science/article/pii/S0092867418305105)
+PNPT1 release from mitochondria during apoptosis triggers decay of poly(A) RNAs.<br> Liu X*, __Fu R*__, Pan Y, Meza-Sosa K, Zhang Z, Lieberman J. _Cell_, 2018. [link](https://www.sciencedirect.com/science/article/pii/S0092867418305105)
 
 Recruitment of the 4EHP-GYF2 cap-binding complex to tetraproline motifs of tristetraprolin promotes repression and degradation of mRNAs with AU-rich elements.<br> __Fu R__, Olsen MT, Webb K, Bennett EJ, Lykke-Andersen J. _RNA_, 2016. [link](https://rnajournal.cshlp.org/content/22/3/373.full.pdf)
 
