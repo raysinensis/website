@@ -1,3 +1,6 @@
+<img align="center" width="399" height="210" src="decay.jpg" style="margin:20px">
+<figcaption>Countless Pacmans have drawn in my career.</figcaption>
+
 ## Research interests:
 ### Post-transcriptional gene expression regulation.
 PNPT1 release from mitochondria during apoptosis triggers decay of poly(A) RNAs.<br> Liu X<sup>1</sup>, __Fu R<sup>1</sup>__, Pan Y, Meza-Sosa K, Zhang Z, Lieberman J. _Cell_, 2018. [link](https://www.sciencedirect.com/science/article/pii/S0092867418305105)
