@@ -16,3 +16,4 @@ Contact:
 1. [LinkedIn](https://www.linkedin.com/in/rui-fu-rna/)
 2. [Twitter](https://twitter.com/FRancium34)
 
+![They said it best](new.jpg)
