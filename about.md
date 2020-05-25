@@ -1,4 +1,5 @@
 ## About me
+![Me](RuiFu.jpg)
 
 I am a biologist and bioinformaticist. Originally from China, I finished my PhD at University of California San Diego, and received postdoctoral training at Boston Children's Hospital of Harvard Medical School and University of Colorado Anschutz Medical Campus.
 
