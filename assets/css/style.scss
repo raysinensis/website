@@ -7,9 +7,12 @@ a.active {
 }
 /* Add a near black background color to the top navigation */
 .topnav {
-  display: inline;
   background-color: #2b2b2b;
   overflow: hidden;
+}
+
+ul#menu li {
+  display:inline;
 }
 
 /* Style the links inside the navigation bar */
