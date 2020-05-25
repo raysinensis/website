@@ -1,4 +1,4 @@
-# Rui Fu, RNA biologist
+## Ray, from China
 
 I am currently a semi-independent postdoctoral fellow at the University of Colorado Anschutz Medical Campus [RNA Bioscience Initiative](https://rockyrna.org/), working on genomic and scRNA-seq informatics analyses and software development. My main research interest is gene expression regulation mediated by RNA-binding proteins, especially decay induction and translational repression.
 
