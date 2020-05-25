@@ -1,5 +1,4 @@
-<img align="center" width="399" height="210" src="decay.jpg" style="margin:20px">
-<figcaption>Countless Pacmans have drawn in my career.</figcaption>
+<img align="center" width="399" height="210" src="decay.jpg" style="margin:50px;border:1px solid black;">
 
 ## Research interests:
 ### Post-transcriptional gene expression regulation.
