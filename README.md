@@ -3,7 +3,7 @@
 I am currently a semi-independent postdoctoral fellow at the University of Colorado Anschutz Medical Campus [RNA Bioscience Initiative](https://rockyrna.org/), working on genomic and scRNA-seq informatics analyses and software development. My main research interest is gene expression regulation mediated by RNA-binding proteins, especially decay induction and translational repression.
 
 Please see:
-1. [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/rf_cv_052420.pdf)
+1. [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/rf_cv.pdf)
 2. [squirrelBox, a Shiny browser for hibernating ground squirrel brain tissue RNA-seq data](https://raysinensis.shinyapps.io/squirrelBox/)
 3. [TCGAbrowser, data presentation project from Data Incubator internship](http://tcga.raysinensis.com)
 
