@@ -7,6 +7,10 @@ Please see:
 2. [squirrelBox, a Shiny browser for hibernating ground squirrel brain tissue RNA-seq data](https://raysinensis.shinyapps.io/squirrelBox/)
 3. [TCGAbrowser, data presentation project from Data Incubator internship](http://tcga.raysinensis.com)
 
+Developed coursework:
+1. [Data Analysis in R](https://rnabioco.github.io/practical-data-analysis)
+2. [Single Cell RNA Sequencing](https://rnabioco.github.io/cellar)
+
 Other links:
 1. [Personal GitHub](https://github.com/raysinensis)
 2. [RNA Bioscience Initiative GitHub](https://github.com/rnabioco)
