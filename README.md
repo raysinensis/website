@@ -4,7 +4,8 @@ I am currently a semi-independent postdoctoral fellow at the University of Color
 
 Please see:
 1. [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/rf_cv.pdf)
-2. [squirrelBox, a Shiny browser for hibernating ground squirrel brain tissue RNA-seq data](https://raysinensis.shinyapps.io/squirrelBox/)
+2. [squirrelBox, a Shiny browser for hibernating ground squirrel brain and other tissue RNA-seq](https://raysinensis.shinyapps.io/squirrelBox/)
+2. [someta, monitoring the issue of missing cell type metadata in NCBI Gene Expression Omnibus single cell sequencing data](https://github.com/rnabioco/someta)
 3. [TCGAbrowser, data presentation project from Data Incubator internship](http://tcga.raysinensis.com)
 
 Developed coursework:
