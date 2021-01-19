@@ -6,7 +6,7 @@ PNPT1 release from mitochondria during apoptosis triggers decay of poly(A) RNAs.
 
 Recruitment of the 4EHP-GYF2 cap-binding complex to tetraproline motifs of tristetraprolin promotes repression and degradation of mRNAs with AU-rich elements.<br> __Fu R__, Olsen MT, Webb K, Bennett EJ, Lykke-Andersen J. _RNA_, 2016. [link](https://rnajournal.cshlp.org/content/22/3/373.full.pdf)
 
-Dynamic RNA Regulation in the Brain Underlies Physiological Plasticity in a Hibernating Mammal.<br> __Fu R*__, Gillen A*, Grabek K, Riemondy K, Epperson E, Bustamant C, Hesselberth J, Martin S. _Frontiers in Physiology_, 2020. [link](https://www.frontiersin.org/articles/10.3389/fphys.2020.624677/full)
+Dynamic RNA Regulation in the Brain Underlies Physiological Plasticity in a Hibernating Mammal.<br> __Fu R*__, Gillen A*, Grabek K, Riemondy K, Epperson E, Bustamant C, Hesselberth J, Martin S. _Frontiers in Physiology_, 2021. [link](https://www.frontiersin.org/articles/10.3389/fphys.2020.624677/full)
 
 ### Single cell RNA sequencing analysis and software development.
 clustifyr: an R package for automated single-cell RNA sequencing cluster classification.<br> __Fu R__, Gillen A, Sheridan R, Tian C, Daya M, Hao Y, Hesselberth J, Riemondy K. _F1000Research_, 2020. [link](https://f1000research.com/articles/9-223)
