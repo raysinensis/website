@@ -13,7 +13,12 @@ Developed coursework:
 1. [Data Analysis in R](https://rnabioco.github.io/practical-data-analysis)
 2. [Single Cell RNA Sequencing](https://rnabioco.github.io/cellar)
 
+
+
 Other links:
+
+![Rui's github stats](https://github-readme-stats.vercel.app/api?username=raysinensis&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
+
 1. [Personal GitHub](https://github.com/raysinensis)
 2. [RNA Bioscience Initiative GitHub](https://github.com/rnabioco)
 3. [Google Scholar Page](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5K4soB0AAAAJ)
