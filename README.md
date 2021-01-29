@@ -17,7 +17,7 @@ Developed coursework:
 
 Other links:
 
-![Rui's github stats](https://github-readme-stats.vercel.app/api?username=raysinensis&count_private=true&show_icons=true&include_all_commits=true&hide=stars)
+[![Rui's github stats](https://github-readme-stats.vercel.app/api?username=raysinensis&count_private=true&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/raysinensis)
 
 1. [Personal GitHub](https://github.com/raysinensis)
 2. [RNA Bioscience Initiative GitHub](https://github.com/rnabioco)
