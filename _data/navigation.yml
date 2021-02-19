@@ -3,8 +3,11 @@
 - title: Home
   url: /
 
-- title: About
+- title: Research
   url: /research/
   
 - title: About
   url: /about/
+  
+- title: Full CV
+  url: /cv/
