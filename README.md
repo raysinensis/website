@@ -5,7 +5,7 @@ I am currently a semi-independent postdoctoral fellow at the University of Color
 Full CV:
 [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/rf_cv.pdf)
 
-Bioinformatic projects
+Bioinformatic projects:
 1. [clustifyr, R package for automated single-cell RNA sequencing cluster classification](http://www.bioconductor.org/packages/release/bioc/html/clustifyr.html)
 2. [someta, monitoring the issue of missing cell type metadata in NCBI Gene Expression Omnibus single cell sequencing data](https://github.com/rnabioco/someta)
 3. [squirrelBox, a Shiny browser for hibernating ground squirrel brain and other tissue RNA-seq](https://raysinensis.shinyapps.io/squirrelBox/)
