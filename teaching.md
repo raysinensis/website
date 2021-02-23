@@ -1,4 +1,4 @@
-<img align="center" width="399" height="210" src="conf.png" style="padding:20px;border:1px solid black;background-color:white;" title="Countless Pacmans have been drawn in my career.">
+<img align="center" width="399" height="210" src="conf.png" style="padding:20px;border:1px solid black;background-color:white;" title="有教無類">
 
 > 有教無類 In teaching, there should be no distinction of classes. - Confucius
 
