@@ -14,8 +14,4 @@ I am currently a semi-independent postdoctoral fellow at the University of Color
 
 [![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raysinensis&count_private=true&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/raysinensis)
 
-**Contact**:
-[LinkedIn](https://www.linkedin.com/in/rui-fu-rna/)
-[Twitter](https://twitter.com/FRancium34)
-
 <img align="center" src="new.jpg" style="border:1px solid black;" title="They said it best.">
