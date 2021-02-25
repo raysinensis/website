@@ -7,7 +7,7 @@
 ### Lectures and class material
 **Rigor in Research** (2020) - lecture on RNA sequencing
 
-**Foundations in Biomedical Sciences** (2018, 2019, 2020 via zoom) - lectures, paper discussion, and homework/exam design on RNA biology
+**Foundations in Biomedical Sciences** (2018, 2019, 2020 via Zoom) - lectures, paper discussion, and homework/exam design on RNA biology
 
 **Practical Data Analysis with R/RStudio** (2018, 2019) - course development and lectures [link](rnabioco.github.io/practical-data-analysis)
 
