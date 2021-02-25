@@ -20,3 +20,6 @@ Monocytic Subclones Confer Resistance to Venetoclax-Based Therapy in Acute Myelo
 ### [Publication List](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5K4soB0AAAAJ)
 
 ### [Publon Reviews](https://publons.com/researcher/3054442/rui-fu/)
+
+<img align="center" width="399" height="210" src="wordcloud.jpeg" style=";border:1px solid black;background-color:white;" title="From abstracts">
+
