@@ -9,9 +9,9 @@
 
 **Foundations in Biomedical Sciences** (2018, 2019, 2020 via Zoom) - lectures, paper discussion, and homework/exam design on RNA biology
 
-**Practical Data Analysis with R/RStudio** (2018, 2019) - course development and lectures [link](rnabioco.github.io/practical-data-analysis)
+**Practical Data Analysis with R/RStudio** (2018, 2019) - course development and lectures [link](https://rnabioco.github.io/practical-data-analysis)
 
-**Workshop for scRNA-seq Data Analysis** (2019, 2020 via RStudio Cloud) - course development and online lectures [link](rnabioco.github.io/cellar)
+**Workshop for scRNA-seq Data Analysis** (2019, 2020 via RStudio Cloud) - course development and online lectures [link](https://rnabioco.github.io/cellar)
 
 ### Mentoring
 **2020 - present:** Mentoring of undergraduate computer science student, systemically exploring published scRNA-seq cell type signatures in the NCBI Gene Expression Omnibus. Mentee's work was integrated into recent updates to R Bioconductor packages *clustifyr* and *clustifyrdatahub*
