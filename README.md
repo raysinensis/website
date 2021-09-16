@@ -1,6 +1,6 @@
 ## Rui (Ray), from China
 
-I am currently a semi-independent postdoctoral fellow at the University of Colorado Anschutz Medical Campus [RNA Bioscience Initiative](https://rockyrna.org/), working on genomic and scRNA-seq informatics analyses and software development. My main research interest is gene expression regulation mediated by RNA-binding proteins, especially decay induction and translational repression.
+I am currently a semi-independent postdoctoral fellow at the University of Colorado Anschutz Medical Campus [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi), working on genomic and scRNA-seq informatics analyses and software development. My main research interest is gene expression regulation mediated by RNA-binding proteins, especially decay induction and translational repression.
 
 **Full CV**:
 [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/rf_cv.pdf)
@@ -14,5 +14,11 @@ I am currently a semi-independent postdoctoral fellow at the University of Color
 4. [TCGAbrowser, data presentation project from Data Incubator internship](http://tcga.raysinensis.com)
 
 [![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raysinensis&count_private=true&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/raysinensis)
+
+
+**Molecular mechanisms of RNA decay research**:
+
+[<img align="center" src="4ehp.jpg" height="210" style="border:1px solid black;" title="Tetra-proline motifs of ZFP36 recruit novel translation repression cofactors.">](https://rnajournal.cshlp.org/content/22/3/373.full)
+[<img align="center" src="pnpt1.jpg" height="210" style="border:1px solid black;" title="Mitochodrial exonuclease PNPT1 triggers global RNA decay in apoptosis.">](https://www.sciencedirect.com/science/article/pii/S0092867418305105)
 
 <img align="center" src="new.jpg" style="border:1px solid black;" title="They said it best.">
