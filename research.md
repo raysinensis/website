@@ -13,6 +13,8 @@ Dynamic RNA Regulation in the Brain Underlies Physiological Plasticity in a Hibe
 
 Liver transcriptome dynamics during hibernation are shaped by a shifting balance between transcription and RNA stability.<br> Gillen A\*, **Fu R\***, Riemondy K\*, Jager J, Fang B, Lazar M, Martin S. _Frontiers in Physiology_, 2021. [link](https://www.frontiersin.org/articles/10.3389/fphys.2021.662132/full)
 
+Transcriptomic Response Dynamics of Human Primary and Immortalized Adrenocortical Cells to Steroidogenic Stimuli.<br> Wellman K\*, **Fu R\***, Baldwin A, Rege J, Murphy E, Rainey W, Mukherjee N. _Cells_, 2021. [link](https://www.mdpi.com/2073-4409/10/9/2376)
+
 ### Single cell RNA sequencing analysis and software development
 clustifyr: an R package for automated single-cell RNA sequencing cluster classification.<br> __Fu R__, Gillen A, Sheridan R, Tian C, Daya M, Hao Y, Hesselberth J, Riemondy K. _F1000Research_, 2020. [link](https://f1000research.com/articles/9-223)
 
