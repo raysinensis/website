@@ -14,7 +14,7 @@
 **Workshop for scRNA-seq Data Analysis** (2019, 2020 via RStudio Cloud, 2021) - course development and online lectures [link](https://rnabioco.github.io/cellar)
 
 ### Mentoring
-**2020 - present:** Mentoring of AAPI undergraduate computer science student, systemically exploring published scRNA-seq cell type signatures in the NCBI Gene Expression Omnibus. Mentee's work was integrated into a first-author publication, and recent updates to R Bioconductor packages *clustifyr* and *clustifyrdatahub*
+**2020 - present:** Mentoring of AAPI undergraduate computer science student, systemically exploring published scRNA-seq cell type signatures in the NCBI Gene Expression Omnibus. Mentee's work was integrated into a first-author publication, and recent updates to R Bioconductor packages *clustifyr* and *clustifyrdatahub*.
 
 **2017:** Mentoring of high school student enrolled in the MIT Research Science Institute program on tissue culture, RNA-related bench experiments, RNA-seq informatics analysis, and scientific writing. Also facilitated mentee's research exchange experience in China.
 
