@@ -6,6 +6,6 @@ I trained in molecular bench experiment research from 2007-2017, mainly in the f
 
 The current position also gave me more teaching and mentoring opportunities, in both basic biology and bioinformatics, which have been greatly rewarding.
 
-As an RNA Society Featured Spotlight writer, I profile RNA biologists from diverse backgrounds. [sample1](https://www.rnasociety.org/dr--furqan-fazal)
+As an RNA Society Featured Spotlight writer, I profile RNA biologists from diverse backgrounds. [sample1](https://www.rnasociety.org/dr--furqan-fazal);[sample2](https://www.rnasociety.org/professor-maria-carmo-fonseca)
 
 In my free time, I am an avid reader, blue collar basketball player, cat lover, and frequent volunteer at the local zoo/aquarium/museum, trying to instill my enthusiasm for science into the public.
