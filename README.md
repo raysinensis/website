@@ -19,9 +19,9 @@ I am currently a semi-independent postdoctoral fellow at the University of Color
 
 **Molecular mechanisms of RNA decay research**:
 
-[<img align="center" src="4ehp.jpg" height="180" style="border:1px solid black;margin-bottom:2px;" title="Tetra-proline motifs of ZFP36 recruit novel translation repression cofactors.">](https://rnajournal.cshlp.org/content/22/3/373.full)
-[<img align="center" src="pnpt1.jpg" height="180" style="border:1px solid black;margin-bottom:2px;" title="Mitochodrial exonuclease PNPT1 triggers global RNA decay in apoptosis.">](https://www.sciencedirect.com/science/article/pii/S0092867418305105)
+[<img align="center" src="4ehp.jpg" height="180" style="border:1px solid black;margin-bottom:2px;" title="Tetra-proline motifs of ZFP36 recruit novel translation repression cofactors. RNA 2016.">](https://rnajournal.cshlp.org/content/22/3/373.full)
+[<img align="center" src="pnpt1.jpg" height="180" style="border:1px solid black;margin-bottom:2px;" title="Mitochodrial exonuclease PNPT1 triggers global RNA decay in apoptosis. CELL 2018.">](https://www.sciencedirect.com/science/article/pii/S0092867418305105)
 <br>
-[<img align="center" src="steroid.jpg" height="180" style="border:1px solid black;" title="RNA decay insures precise regulation of steroid production.">](https://rnajournal.cshlp.org/content/27/8/933.full)
+[<img align="center" src="steroid.jpg" height="180" style="border:1px solid black;" title="RNA decay insures precise regulation of steroid production. RNA 2021.">](https://rnajournal.cshlp.org/content/27/8/933.full)
 <hr>
 <img align="center" src="new.jpg" style="border:1px solid black;" title="They said it best.">
