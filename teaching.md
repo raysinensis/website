@@ -7,14 +7,18 @@
 ### Lectures and class material
 **Rigor in Research** (2020) - lecture on RNA sequencing
 
-**Foundations in Biomedical Sciences** (2018, 2019, 2020 via Zoom) - lectures, paper discussion, and homework/exam design on RNA biology
+**Foundations in Biomedical Sciences** (2018, 2019, 2020 via Zoom) - lectures, paper discussion, and homework/exam design on RNA biology [Teaching Eval](https://github.com/raysinensis/website/raw/master/Teaching_eval_RuiFu.pdf)
 
 **Practical Data Analysis with R/RStudio** (2018, 2019) - course development and lectures [link](https://rnabioco.github.io/practical-data-analysis)
 
 **Workshop for scRNA-seq Data Analysis** (2019, 2020 via RStudio Cloud, 2021) - course development and online lectures [link](https://rnabioco.github.io/cellar)
 
+### Teaching training
+**Inclusive STEM Teaching Course** [link](https://www.inclusivestemteaching.org)
+**Harvard Medical School Scientists Teaching Science Course** [link](https://postdoc.hms.harvard.edu/STS-course)
+
 ### Mentoring
-**2020 - present:** Mentoring of AAPI undergraduate computer science student, systemically exploring published scRNA-seq cell type signatures in the NCBI Gene Expression Omnibus. Mentee's work was integrated into a first-author publication, and recent updates to R Bioconductor packages *clustifyr* and *clustifyrdatahub*.
+**2020 - 2021:** Remote mentoring of AAPI undergraduate computer science student, systemically exploring published scRNA-seq cell type signatures in the NCBI Gene Expression Omnibus. Mentee's work was integrated into a first-author publication, and recent updates to R Bioconductor packages *clustifyr* and *clustifyrdatahub*.
 
 **2017:** Mentoring of high school student enrolled in the MIT Research Science Institute program on tissue culture, RNA-related bench experiments, RNA-seq informatics analysis, and scientific writing. Also facilitated mentee's research exchange experience in China.
 
@@ -27,3 +31,5 @@
 **2016 - 2017:** Visitor Education Volunteer at the New England Aquarium
 
 **2015 - 2016:** Information Ambassador at the San Diego Zoo
+
+**2012:** Organizer for UCSD Ethics Center’s Silent Spring 50th Anniversary Project
