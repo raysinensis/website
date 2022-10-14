@@ -13,7 +13,8 @@ I am currently a Bioinfomatics Scientist at the New York Genome Center, working 
 3. [clustifyr, R package for automated single-cell RNA sequencing cluster classification](http://www.bioconductor.org/packages/release/bioc/html/clustifyr.html). F1000Research 2020.
 4. [someta, monitoring the issue of missing cell type metadata in NCBI Gene Expression Omnibus single cell sequencing data](https://github.com/rnabioco/someta). PLoS Biology 2021.
 5. [squirrelBox, a Shiny browser for hibernating ground squirrel brain and other tissue RNA-seq](https://raysinensis.shinyapps.io/squirrelBox/). Frontiers in Physiology 2020.
-6. [TCGAbrowser, data presentation project](http://tcga.raysinensis.com). Data Incubator internship.
+6. [Single cell seq pathway scoring, multithreaded and rewritten in Rust](https://github.com/raysinensis/SCoreRust). Work in progress.
+7. [TCGAbrowser, data presentation project](http://tcga.raysinensis.com). Data Incubator internship.
 
 [![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raysinensis&count_private=true&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/raysinensis)
 
