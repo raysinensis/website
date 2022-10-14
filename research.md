@@ -26,7 +26,7 @@ Monocytic Subclones Confer Resistance to Venetoclax-Based Therapy in Acute Myelo
 
 Molecular tracking devices quantify antigen distribution and archiving in the murine lymph node.<br> Walsh S, Sheridan R, Doan T, Lucas E, Ware B, __Fu R__, Burchill M, Hesselberth J, Tamburini B. _eLife_, 2021. [link](https://elifesciences.org/articles/62781)
 
-### [Publication List](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5K4soB0AAAAJ) <a itemprop="sameAs" content="https://orcid.org/0000-0001-8183-4549" href="https://orcid.org/0000-0001-8183-4549" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:0.5em;margin-right:.5em;" alt="ORCID iD icon"></a>[CU Profile](https://profiles.ucdenver.edu/display/15570362)
+### [Publication List](https://scholar.google.com/citations?view_op=list_works&hl=en&user=5K4soB0AAAAJ) <a itemprop="sameAs" content="https://orcid.org/0000-0001-8183-4549" href="https://orcid.org/0000-0001-8183-4549" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:0.5em;margin-right:.5em;" alt="ORCID iD icon"></a>
 
 ### [Publons Reviews](https://publons.com/researcher/3054442/rui-fu/)
 
