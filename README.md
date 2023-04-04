@@ -1,6 +1,6 @@
 ## Rui (Ray), from China
 
-I am currently a Bioinfomatics Scientist at the New York Genome Center, working on genomic and scRNA-seq informatics analyses and software development. My main research interest is gene expression regulation mediated by RNA-binding proteins, especially decay induction and translational repression.
+I am currently a Senior Bioinfomatics Scientist at the New York Genome Center, working on genomic and scRNA-seq informatics analyses and software development. My main research interest is gene expression regulation mediated by RNA-binding proteins, especially decay induction and translational repression.
 
 **Full CV**:
 [Curriculum Vitae](https://github.com/raysinensis/cv/raw/master/rf_cv.pdf)
