@@ -9,12 +9,13 @@ I am currently a Senior Bioinfomatics Scientist at the New York Genome Center, w
 **Bioinformatic projects**:
 
 1. [scraps, pipeline for extraction of mRNA polyadenylation sites from "TVN"-primed single-cell RNA-seq libraries](https://github.com/rnabioco/scraps). In prep.
-1. [Spatial transcriptomic analysis of childhood ependymoma](https://raysinensis.shinyapps.io/spatialshiny/). Neuro-Oncology 2022.
-3. [clustifyr, R package for automated single-cell RNA sequencing cluster classification](http://www.bioconductor.org/packages/release/bioc/html/clustifyr.html). F1000Research 2020.
-4. [someta, monitoring the issue of missing cell type metadata in NCBI Gene Expression Omnibus single cell sequencing data](https://github.com/rnabioco/someta). PLoS Biology 2021.
-5. [squirrelBox, a Shiny browser for hibernating ground squirrel brain and other tissue RNA-seq](https://raysinensis.shinyapps.io/squirrelBox/). Frontiers in Physiology 2020.
-6. [Single cell seq pathway scoring, multithreaded and rewritten in Rust](https://github.com/raysinensis/SCoreRust). Work in progress.
-7. [TCGAbrowser, data presentation project](http://tcga.raysinensis.com). Data Incubator internship.
+2. [Spatial transcriptomic analysis of human adrenal gland](https://raysinensis.shinyapps.io/spatialshiny_adr/). Journal of the Endocrine Society 2023.
+3. [Spatial transcriptomic analysis of childhood ependymoma](https://raysinensis.shinyapps.io/spatialshiny/). Neuro-Oncology 2022.
+4. [clustifyr, R package for automated single-cell RNA sequencing cluster classification](http://www.bioconductor.org/packages/release/bioc/html/clustifyr.html). F1000Research 2020.
+5. [someta, monitoring the issue of missing cell type metadata in NCBI Gene Expression Omnibus single cell sequencing data](https://github.com/rnabioco/someta). PLoS Biology 2021.
+6. [squirrelBox, a Shiny browser for hibernating ground squirrel brain and other tissue RNA-seq](https://raysinensis.shinyapps.io/squirrelBox/). Frontiers in Physiology 2020.
+7. [Single cell seq pathway scoring, multithreaded and rewritten in Rust](https://github.com/raysinensis/SCoreRust). Work in progress.
+8. [TCGAbrowser, data presentation project](http://tcga.raysinensis.com). Data Incubator internship.
 
 [![Rui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raysinensis&count_private=true&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/raysinensis)
 
