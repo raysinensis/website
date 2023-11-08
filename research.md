@@ -16,6 +16,9 @@ Liver transcriptome dynamics during hibernation are shaped by a shifting balance
 Transcriptomic Response Dynamics of Human Primary and Immortalized Adrenocortical Cells to Steroidogenic Stimuli.<br> Wellman K\*, **Fu R\***, Baldwin A, Rege J, Murphy E, Rainey W, Mukherjee N. _Cells_, 2021. [link](https://www.mdpi.com/2073-4409/10/9/2376)
 
 ### Single cell RNA sequencing analysis and software development
+
+In situ spatial reconstruction of distinct normal and pathological cell populations within the human adrenal gland. <br> __Fu R__, Walters K, Kaufman M, Koc K, Baldwin A, Clay M, Basham K, Kiseljak-Vassiliades K, Fishbein L, Mukherjee N. _Journal of the Endocrine Society_, 2023. [link](https://doi.org/10.1210/jendso/bvad131)
+
 Spatial transcriptomic analysis delineates epithelial and mesenchymal subpopulations and transition stages in childhood ependymoma.<br> __Fu R__, Norris G, Willard N, Griesinger A, Riemondy K, Amani V, Grimaldo E, Harris F, Gilani A, Hankinson T, Mitra S, Hesselberth J, Ritzmann T, Grundy R, Foreman N, Donson A. _Neuro-Oncology_, 2022. [link](https://doi.org/10.1093/neuonc/noac219)
 
 clustifyr: an R package for automated single-cell RNA sequencing cluster classification.<br> __Fu R__, Gillen A, Sheridan R, Tian C, Daya M, Hao Y, Hesselberth J, Riemondy K. _F1000Research_, 2020. [link](https://f1000research.com/articles/9-223)
